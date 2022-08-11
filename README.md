@@ -1,6 +1,5 @@
 # bytebank-herdado-conta
 
-# topics covered
+# Topics covered
 
-- 
-inheritance and polymorphism
+- Inheritance and polymorphism.
